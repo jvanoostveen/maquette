@@ -58,3 +58,7 @@ maquette.njsproj
 .ntvs_analysis.dat
 bin
 obj
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
